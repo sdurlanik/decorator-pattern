@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: add4e5fb586e4d6789fe1eb7e80eb836, type: 3}
+  m_Name: CarProvider
+  m_EditorClassIdentifier: 
+  bmwInfo: {fileID: 11400000, guid: ae6d6f2262b51e241a6187696922684e, type: 2}
+  audiInfo: {fileID: 11400000, guid: f405c227fcc4840468118f14cd4927af, type: 2}
